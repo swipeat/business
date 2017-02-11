@@ -1,3 +1,15 @@
+<img align=left src="logo_small.png" alt="" width="200">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 # SwipEat - Groceries made easy!
 
 Swipeat will make it easy to plan your meals and shop for groceries.
