@@ -345,12 +345,23 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-    margin-bottom: 75px;
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+    background-color: rgba(255,255,255,.8);
+    color: #9b354b;
+}
+
+section p.contact {
+    text-transform: none;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    background-color: rgba(255,255,255,.8);
+    color: black;
 }
 
 @media(min-width:768px) {
